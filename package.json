@@ -1,0 +1,14 @@
+{
+  "name": "canvas-srv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "srv/index.js",
+  "scripts": {
+    "start": "node srv/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
